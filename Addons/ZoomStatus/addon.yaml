@@ -1,0 +1,9 @@
+########################################################################
+# Addon Information
+########################################################################
+enabled: true
+id: ZoomStatus
+name: Zoom Status
+file: ZoomStatus.dll
+minApiVersion: 2.0.0
+maxApiVersion: 
